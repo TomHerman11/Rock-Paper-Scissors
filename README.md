@@ -1,3 +1,4 @@
 # Rock-Paper-Scissors
-HW during  the course "Advanced Topics in Programming", at Tel Aviv University 2018.
-All of the work was made by 2 students: a colleague from the course, and me.
+HW as part of the course "Advanced Topics in Programming", at Tel Aviv University 2018 (B.Sc Computer Science).\
+The HW was implemented by another colleague, and me.\
+Enjoy!
